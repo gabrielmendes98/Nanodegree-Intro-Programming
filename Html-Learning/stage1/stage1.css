@@ -1,0 +1,28 @@
+.termos{
+  background-color: #FDD7E4;
+  color: red;
+}
+*{
+  font-size: 102%;
+  font-family: Calibri;
+  text-align: center;
+}
+.title{
+  font-size: 160%;
+}
+body{
+  background-image: url(stage1.jpg);
+  height: 99%;
+  width: 99;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+div{
+  background-color: #e9ebee;
+  border-radius: 10px
+}
